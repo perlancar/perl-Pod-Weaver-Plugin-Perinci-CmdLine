@@ -1,0 +1,63 @@
+0.012   2021-08-21  Released-By: PERLANCAR; Urgency: low
+
+	- No functional changes.
+
+	- [doc] Update documentation.
+
+
+0.011   2021-08-13  Released-By: PERLANCAR; Urgency: medium
+
+	- Generate 'Acme::CPANModules Modules' and 'See Also' POD sections
+	  for Acme/CPANModulesBundle/*pm files.
+
+
+0.010   2021-08-08  Released-By: PERLANCAR; Urgency: medium
+
+	- Mention App::lcpan::Cmd::related_mods in generated FAQ section.
+
+
+0.009   2021-05-22  Released-By: PERLANCAR; Urgency: medium
+
+	- [ux] Mention using cpanm-cpanmodules in the generated POD.
+
+
+0.008   2021-02-18  Released-By: PERLANCAR; Urgency: medium
+
+	- [bugfix] Forgot to bump prereq Pod::From::Acme::CPANModules to
+	  0.007.
+
+
+0.007   2021-02-18  Released-By: PERLANCAR; Urgency: medium
+
+	- Add configuration: entry_description_code.
+
+
+0.006   2020-12-27  Released-By: PERLANCAR; Urgency: medium
+
+	- Generate FAQ item that describes what an Acme::CPANModules::*
+	  module is.
+
+
+0.005   2020-10-10  Released-By: PERLANCAR; Urgency: medium
+
+	- Tweak/add generated POD.
+
+
+0.004   2020-09-15  Released-By: PERLANCAR; Urgency: medium
+
+	- [doc] Update doc (Pod::From::Acme::CPANModules 0.005).
+
+
+0.003   2019-12-24  Released-By: PERLANCAR; Urgency: medium
+
+	- Generate a FAQ section.
+
+
+0.002   2018-01-09  Released-By: PERLANCAR
+
+	- Only process /^Acme::CPANModules::/.
+
+
+0.001   2018-01-09  Released-By: PERLANCAR
+
+        - First release.
